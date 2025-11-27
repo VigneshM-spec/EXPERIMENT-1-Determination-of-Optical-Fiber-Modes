@@ -52,7 +52,10 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 ## 📊 OBSERVATION AND CALCULATION
 
-- 
+- <img width="280" height="208" alt="image" src="https://github.com/user-attachments/assets/36164f2d-1d29-41ef-af68-042e48d1dddb" />
+<img width="773" height="588" alt="image" src="https://github.com/user-attachments/assets/577179c8-5343-484d-9bcd-fef29e4d0766" />
+<img width="831" height="353" alt="image" src="https://github.com/user-attachments/assets/0f06f51c-b7df-41d7-82f5-4b75055180bb" />
+<img width="796" height="353" alt="image" src="https://github.com/user-attachments/assets/21207eee-b41e-4a3d-b218-86cd0b56a9b5" />
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm
 V = 2 π x A x N.A / λ = 4.91
@@ -61,4 +64,6 @@ Total number of modes = V^2 / 2 = 4.91^2 / 2
 
 ---
 ## Tabulation
+S.No	   LCM	   WCM	   NA
+1	      2.5	   0.3	   0.059
 ## Result
